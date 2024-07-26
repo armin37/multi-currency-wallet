@@ -1,0 +1,17 @@
+{
+  "balance": {
+    "total": "Total Balance"
+  },
+  "money": {
+    "add": "Add money"
+  },
+  "pay": "pay",
+  "exchange": "Exchange",
+  "cards": "Cards",
+  "transaction": {
+    "recent": "Recent transactions"
+  },
+  "see": {
+    "all": "See all"
+  }
+}

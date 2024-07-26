@@ -1,0 +1,9 @@
+@import "environment/variables.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+svg {
+    display: inline-block !important;
+}
